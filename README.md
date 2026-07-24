@@ -1,169 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm **Suad Abdullahi Ali**
+<img src="YOUR_BANNER_LINK_HERE" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+Node.js+%7C+PHP;Always+Learning+Something+New!" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sucad165&style=for-the-badge&color=blue" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Suad+Abdullahi+Ali;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PHP+%7C+SQL;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Passionate about Web Development
+Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building modern web applications and improving my programming skills every day.
 
-🌱 Currently learning Full Stack Development
-
-🚀 Building my programming skills every day
-
-🎯 Goal: Become a Professional Software Engineer
-
-📚 Love learning new technologies
+- 💻 Full Stack Web Development enthusiast
+- 🌱 Currently improving my frontend and backend skills
+- 🚀 Interested in creating real-world applications
+- 📚 Always learning new technologies
+- 🎯 Goal: Become a professional Software Engineer
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,java,git,github,vscode" />
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,php"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucad165&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sucad165/sucad165/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-* React.js
-* Node.js
-* Express.js
-* REST API
-* MongoDB
-* Advanced JavaScript
+🚀 Advanced React.js  
+⚙️ Node.js & Express.js  
+🔌 REST API Development  
+🗄 Database Design  
+☁️ Deployment & Cloud Technologies  
 
 ---
 
-# 🚀 Future Projects
 
-* 🌐 Portfolio Website
-* 💰 Finance Management System
-* 🛒 E-Commerce Website
-* 🏥 Hospital Management System
-* 📊 Admin Dashboard
-* 📱 Responsive Web Applications
 
----
+# 📊 GitHub Statistics
 
-# 🎯 2026 Goals
+<div align="center">
 
-✔ Build 20+ Projects
+<img src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight&hide_border=true" />
 
-✔ Master React.js
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight&hide_border=true" />
 
-✔ Learn Node.js & Express
-
-✔ Improve Problem Solving
-
-✔ Contribute to Open Source
-
-✔ Build Real-World Applications
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&no-frame=true&row=2&column=4" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucad165&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sucad165/sucad165/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 My Goals
+
+✅ Build real-world projects  
+✅ Become Full Stack Developer  
+✅ Improve problem solving skills  
+✅ Learn modern technologies  
+✅ Contribute to Open Source  
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/sucad165">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### "Code • Learn • Build • Repeat"
+### 💙 Code • Learn • Build • Repeat
 
 </div>
