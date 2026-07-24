@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_LINK_HERE" width="100%" />
+<!--img src="YOUR_BANNER_LINK_HERE" width="100%" /-->
 
 <br/>
 
@@ -40,10 +40,10 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 🗄 Database Design  
 ☁️ Deployment & Cloud Technologies  
 
----
 
 
 
+<!--
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -53,9 +53,9 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
+-->
 ---
-
+<!--
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -63,9 +63,10 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 <img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight&hide_border=true" />
 
 </div>
+-->
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -73,7 +74,7 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 <img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&no-frame=true&row=2&column=4" />
 
 </div>
-
+-->
 ---
 
 # 📈 Contribution Graph
@@ -85,7 +86,7 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 </div>
 
 ---
-
+<!--
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -93,6 +94,7 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 <img src="https://raw.githubusercontent.com/sucad165/sucad165/output/github-contribution-grid-snake.svg" />
 
 </div>
+-->
 
 ---
 
