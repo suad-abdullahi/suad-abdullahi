@@ -98,13 +98,6 @@ Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building mod
 
 ---
 
-# 🎯 My Goals
-
-✅ Build real-world projects  
-✅ Become Full Stack Developer  
-✅ Improve problem solving skills  
-✅ Learn modern technologies  
-✅ Contribute to Open Source  
 
 ---
 
