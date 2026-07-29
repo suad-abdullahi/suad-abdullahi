@@ -1,122 +1,136 @@
 <div align="center">
 
-<!--img src="YOUR_BANNER_LINK_HERE" width="100%" /-->
+<img src="./banner.png" width="100%" alt="Suad Abdullahi Ali Banner"/>
 
-<br/>
+# Hi 👋 I'm Suad Abdullahi Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Suad+Abdullahi+Ali;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PHP+%7C+SQL;Always+Learning+New+Technologies" />
+### 💻 Full Stack Developer
 
-</div>
+### 🚀 Passionate about building modern, scalable, and user-friendly web applications.
 
----
+<p>
+<a href="https://github.com/sucad165">
+<img src="https://img.shields.io/badge/GitHub-sucad165-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 👨‍💻 About Me
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-Hello! I'm **Suad Abdullahi Ali**, a passionate developer who loves building modern web applications and improving my programming skills every day.
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 💻 Full Stack Web Development enthusiast
-- 🌱 Currently improving my frontend and backend skills
-- 🚀 Interested in creating real-world applications
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a professional Software Engineer
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,java,git,github,vscode" />
+</p>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# 👩‍💻 About Me
 
-🚀 Advanced React.js  
-⚙️ Node.js & Express.js  
-🔌 REST API Development  
-🗄 Database Design  
-☁️ Deployment & Cloud Technologies  
+- 🌍 From Somalia
+- 💻 Full Stack Developer
+- 🌱 Currently learning Advanced Web Development
+- ❤️ Love building modern websites
+- 🚀 Always learning new technologies
+- 🎯 Goal: Become a Senior Full Stack Developer
 
-
-
-
-<!--
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
--->
 ---
-<!--
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode,java"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight"/>
 
-</div>
--->
+</p>
 
 ---
-<!--
+
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&no-frame=true&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&row=1&column=7"/>
 
-</div>
--->
+</p>
+
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucad165&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucad165&theme=tokyo-night"/>
 
-</div>
-
----
-<!--
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sucad165/sucad165/output/github-contribution-grid-snake.svg" />
-
-</div>
--->
+</p>
 
 ---
 
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💰 Personal Finance System | PHP & MySQL Finance Management System |
+| 📋 Task Manager | Modern Admin Dashboard |
+| 👨‍⚕️ Hospital Management | Patient & Doctor System |
+| 🛒 E-Commerce Website | Online Shopping Platform |
 
 ---
 
-# 🌍 Connect With Me
+# 💡 Quote
 
-<div align="center">
+> **Code. Create. Solve. Repeat.**
 
-<a href="https://github.com/sucad165">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+<a href="https://github.com/sucad165">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile ⭐
 
-### 💙 Code • Learn • Build • Repeat
+<img src="https://komarev.com/ghpvc/?username=sucad165&style=for-the-badge&color=blue"/>
 
 </div>
