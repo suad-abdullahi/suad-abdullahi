@@ -36,18 +36,7 @@
 - 🚀 Always learning new technologies
 - 🎯 Goal: Become a Senior Full Stack Developer
 
----
 
-
-
----
-
-
-
----
-
-
----
 
 # 🏆 GitHub Trophies
 
@@ -57,7 +46,6 @@
 
 </p>
 
----
 
 # 📈 Contribution Graph
 
@@ -67,15 +55,13 @@
 
 </p>
 
----
 
----
 
 # 💡 Quote
 
 > **Code. Create. Solve. Repeat.**
 
----
+
 
 # 📫 Connect With Me
 
