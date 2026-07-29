@@ -66,19 +66,6 @@ My goal is to create software that is simple, fast, secure, and user-friendly.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight" />
-
-</p>
-
----
 
 ## 🔥 My Goals
 
