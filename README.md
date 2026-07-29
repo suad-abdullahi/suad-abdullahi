@@ -1,82 +1,104 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Suad Abdullahi Ali Banner"/>
+<img src="banner.png" width="100%" />
 
-# Hi 👋 I'm Suad Abdullahi Ali
+<h1>Hi 👋, I'm Suad Abdullahi Ali</h1>
 
-### 💻 Full Stack Developer
-
-### 🚀 Passionate about building modern, scalable, and user-friendly web applications.
+<h3>🚀 Full Stack Developer | Web Developer | Problem Solver</h3>
 
 <p>
-<a href="https://github.com/sucad165">
-<img src="https://img.shields.io/badge/GitHub-sucad165-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
+I build modern, responsive, and scalable web applications.
+Passionate about creating clean UI, powerful backend systems,
+and learning new technologies every day.
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌍 From Somalia
-- 💻 Full Stack Developer
-- 🌱 Currently learning Advanced Web Development
-- ❤️ Love building modern websites
-- 🚀 Always learning new technologies
-- 🎯 Goal: Become a Senior Full Stack Developer
+Hi, I'm **Suad Abdullahi Ali**, a passionate **Full Stack Developer** who loves building complete web solutions from frontend to backend.
 
+I enjoy transforming ideas into real applications using modern technologies. 
+My goal is to create software that is simple, fast, secure, and user-friendly.
 
+🌱 Currently learning and improving:
+- Advanced Full Stack Development
+- Database Design
+- Backend Architecture
+- Modern Web Technologies
 
-# 🏆 GitHub Trophies
+💡 My interests:
+- Web Application Development
+- Software Engineering
+- Open Source Projects
+- Problem Solving
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sucad165&theme=tokyonight&row=1&column=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,java,git,github,vscode,tailwind,bootstrap" />
 
 </p>
 
+---
 
-# 📈 Contribution Graph
+## 🚀 What I Do
+
+✅ Frontend Development  
+- Responsive UI Design
+- Modern React Applications
+- User Experience Improvement
+
+✅ Backend Development  
+- REST API Development
+- Database Management
+- Server-side Applications
+
+✅ Full Stack Development  
+- Connecting Frontend & Backend
+- Building Complete Web Systems
+- Application Deployment
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucad165&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight" />
 
 </p>
 
+---
 
+## 🔥 My Goals
 
-# 💡 Quote
+🚀 Become an advanced Full Stack Engineer  
+🌍 Build useful applications for people  
+📚 Keep improving my programming skills  
+🤝 Contribute to open-source projects  
 
-> **Code. Create. Solve. Repeat.**
+---
 
-
-
-# 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sucad165">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://mail.google.com/mail/u/0/#inbox">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -85,8 +107,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=sucad165&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sucad165&color=blue&style=flat-square"/>
 
 </div>
