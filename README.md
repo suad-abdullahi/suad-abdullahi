@@ -23,19 +23,7 @@ Hi, I'm **Suad Abdullahi Ali**, a passionate **Full Stack Developer** who loves 
 I enjoy transforming ideas into real applications using modern technologies. 
 My goal is to create software that is simple, fast, secure, and user-friendly.
 
-🌱 Currently learning and improving:
-- Advanced Full Stack Development
-- Database Design
-- Backend Architecture
-- Modern Web Technologies
 
-💡 My interests:
-- Web Application Development
-- Software Engineering
-- Open Source Projects
-- Problem Solving
-
----
 
 ## 🛠️ Languages and Tools
 
