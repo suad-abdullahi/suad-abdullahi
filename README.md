@@ -38,35 +38,14 @@
 
 ---
 
-# 🚀 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode,java"/>
-
-</p>
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sucad165&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucad165&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sucad165&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -89,15 +68,6 @@
 </p>
 
 ---
-
-# 📂 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 💰 Personal Finance System | PHP & MySQL Finance Management System |
-| 📋 Task Manager | Modern Admin Dashboard |
-| 👨‍⚕️ Hospital Management | Patient & Doctor System |
-| 🛒 E-Commerce Website | Online Shopping Platform |
 
 ---
 
