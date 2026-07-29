@@ -47,24 +47,8 @@ My goal is to create software that is simple, fast, secure, and user-friendly.
 
 ---
 
-## 🚀 What I Do
 
-✅ Frontend Development  
-- Responsive UI Design
-- Modern React Applications
-- User Experience Improvement
 
-✅ Backend Development  
-- REST API Development
-- Database Management
-- Server-side Applications
-
-✅ Full Stack Development  
-- Connecting Frontend & Backend
-- Building Complete Web Systems
-- Application Deployment
-
----
 
 
 ## 🔥 My Goals
