@@ -39,14 +39,7 @@ My goal is to create software that is simple, fast, secure, and user-friendly.
 
 
 
-## 🔥 My Goals
 
-🚀 Become an advanced Full Stack Engineer  
-🌍 Build useful applications for people  
-📚 Keep improving my programming skills  
-🤝 Contribute to open-source projects  
-
----
 
 ## 🤝 Connect With Me
 
